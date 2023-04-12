@@ -1,0 +1,15 @@
+{
+  "name": "practicon4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicios4.js",
+  "scripts": {
+    "start": "node Ejercicios4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
